@@ -5,6 +5,7 @@ Add your name to this README!
 (This checks your FETCH is working)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Nick Johnson
 - Fake McPerson
 - Siddhartha
@@ -50,3 +51,13 @@ sam costello
 - Haaris Moghal
 
 >>>>>>> upstream/main
+=======
+- Nick Johnson
+- Fake McPerson
+- Siddhartha
+- Sam Costello
+- Mohamud Mussa
+- Leighton Manning
+- Haaris Moghal
+- Ayesha Raja
+>>>>>>> 879fb9484046318753d4cbc1d9138370e4e1e98c
