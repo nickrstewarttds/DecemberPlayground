@@ -7,4 +7,3 @@ Add your name to this README!
 
 - Haaris Moghal
 - Claes Alfonso
-
