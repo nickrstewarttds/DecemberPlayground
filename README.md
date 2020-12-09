@@ -32,6 +32,7 @@ Add your name to this README!
 - Leighton Manning
 - Mohamud Mussa
 - Fake McPerson
+- Elisa Pichierri 
 <<<<<<< HEAD
 =======
 
