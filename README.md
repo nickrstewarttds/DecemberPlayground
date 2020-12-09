@@ -4,6 +4,7 @@ Add your name to this README!
 
 (This checks your FETCH is working)
 
+<<<<<<< HEAD
 - Nick Johnson
 - Fake McPerson
 - Siddhartha
@@ -42,4 +43,10 @@ sam costello
 >>>>>>> e1592c7b10bb915a282ad3e1b0b91031862bbe84
 >>>>>>> upstream/main
 =======
+>>>>>>> upstream/main
+=======
+<<<<<<< HEAD
+
+- Haaris Moghal
+
 >>>>>>> upstream/main
