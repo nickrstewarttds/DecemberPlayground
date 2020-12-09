@@ -5,9 +5,6 @@ Add your name to this README!
 (This checks your FETCH is working)
 
 - Nick Johnson
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 - Matthew Garbett
 =======
 - Fake McPerson
@@ -27,4 +24,3 @@ Add your name to this README!
 
 >>>>>>> 1146b0a8001872e313ba12dcb36e8fa3086876f0
 
--Matthew Garbett
