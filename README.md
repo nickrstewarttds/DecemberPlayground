@@ -11,3 +11,5 @@ Add your name to this README!
 - Sam Costello
 - Mohamud Mussa
 - Leighton Manning
+- Haaris Moghal
+- Ayesha Raja
