@@ -4,6 +4,8 @@ Add your name to this README!
 
 (This checks your FETCH is working)
 
+-Andi Berisha
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Nick Johnson
