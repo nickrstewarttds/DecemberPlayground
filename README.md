@@ -53,6 +53,13 @@ sam costello
 >>>>>>> upstream/main
 =======
 - Nick Johnson
+<<<<<<< HEAD
+<<<<<<< HEAD
+- Celina
+=======
+=======
+- Emmanuel/Manny
+>>>>>>> 1dc3ae2ed7e363c7da270c40b7ac278c3cadca6c
 - Fake McPerson
 - Siddhartha
 - Mohamud Mussa
